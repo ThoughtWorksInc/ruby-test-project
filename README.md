@@ -1,4 +1,4 @@
-Nearly empty ruby project with a failing test!
+Nearly empty Ruby project with a failing test!
 ===
 
 This project is set up with bundler and rake.
